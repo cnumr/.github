@@ -1,4 +1,4 @@
-![The CNumR Logo](https://github.com/cnumr/.github/blob/main/profile/cnumr-logo.png)
+![The CNumR Logo](https://github.com/cnumr/.github/blob/master/profile/cnumr-logo.png)
 
 # CNumR - Collectif Conception Numérique Responsable
 
