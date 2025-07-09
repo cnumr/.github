@@ -26,7 +26,7 @@ Vous y trouverez notamment :
 | [best-practices-packaged-software](https://github.com/cnumr/best-practices-packaged-software) | REIPRO. Référentiel de critères pour les progiciels                                                                         |
 | [best-practices-mobile](https://github.com/cnumr/best-practices-mobile)                       | RMOB. Référentiel de pratiques pour les applications mobiles. Disponible sur  ref.greenit.fr/rmob                           |
 | [best-practices-wordpress](https://github.com/cnumr/best-practices-wordpress)                 | RWP. Référentiel de bonnes pratiques pour l’environnement wordpress. Disponible sur ref.greenit.fr/rwp                      |
-
+| [best-practices-checklists](https://github.com/cnumr/best-practices-checklists) | Checklists pour les référentiels, permettant de valider son avancement. |
 
 
 ## Ecoindex dans ses différentes versions
