@@ -39,7 +39,7 @@ Vous y trouverez notamment :
 | [ecoindex_js](https://github.com/cnumr/ecoindex_js)                               | Intégration de EcoIndex sous la forme de librairie Javascript.                    |
 | [EcoIndex_badge](https://github.com/cnumr/EcoIndex_badge)                         | Permet l’ajout d’un badge EcoIndex sur une page web.                              |
 | [ecoindex_BFF](https://github.com/cnumr/ecoindex_BFF)                             | Intégration de Ecoindex en backend for Frontend.                                  |
-| [lighthouse-plugin-ecoindex](https://github.com/cnumr/lighthouse-plugin-ecoindex) | Plugin EcoIndex pour Google Lighthouse.                                           |
+| [lighthouse-plugin-ecoindex](https://github.com/cnumr/lighthouse-plugin-ecoindex) | Plugin EcoIndex pour Google Lighthouse. Documentation disponible à l'adresse http://lighthouse-ecoindex.greenit.eco/                                          |
 | [EcoIndexApp](https://github.com/cnumr/EcoIndexApp)                               | Application de bureau qui regroupe Ecoindex + Lighthouse.                         |
 | [EcoIndex_python](https://github.com/cnumr/EcoIndex_python)                       | Intégration d’ecoindex dans l’écosystème python.                                  |
 | [ecoindex_node](https://github.com/cnumr/ecoindex_node)                           | Intégration d’ecoindex dans l’écosystème node.                                    |
