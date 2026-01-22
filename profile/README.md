@@ -13,6 +13,7 @@ Vous y trouverez notamment :
    * RWP, référentiel de bonnes pratiques d’écoconception avec wordpress .
    * RMOB, référentiel de bonnes pratiques d’écoconception pour les applications mobiles.
    * REIPRO, référentiel d’écoconception avec des progiciels.
+   * RIA, référentiel de bonnes pratiques pour l'IA générative dans les services numériques.
  * Les outils classiques d’estimation des impacts environnementaux d’une page web et d’analyse de la mise en oeuvre des bonnes pratiques :
    * EcoIndex, algorithme permettant d’évaluer les impacts environnementaux associés à une page web et d’évaluer sa performance environnementale. Décliné sous de nombreuses formes.
    * GreenIT analysis, plugin pour Firefox et Google Chrome permettant de calculer l’EcoIndex des pages de façon historisées ainsi que de détecter automatiquement la mise en œuvre de certaines des 115 bonnes pratiques.
@@ -23,10 +24,11 @@ Vous y trouverez notamment :
 | Projet                                                                                        | Description                                                                                                                 |
 |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | [best-practices](https://github.com/cnumr/best-practices)                                     | RWEB : Référentiel de bonnes pratiques pour les applications web (115 bonnes pratiques). Disponible sur ref.greenit.fr/rweb |
-| [best-practices-packaged-software](https://github.com/cnumr/best-practices-packaged-software) | REIPRO. Référentiel de critères pour les progiciels                                                                         |
+| [best-practices-packaged-software](https://github.com/cnumr/best-practices-packaged-software) | REIPRO. Référentiel de critères pour les progiciels. Disponible sur reipro.greenit.fr                                       |
 | [best-practices-mobile](https://github.com/cnumr/best-practices-mobile)                       | RMOB. Référentiel de pratiques pour les applications mobiles. Disponible sur  ref.greenit.fr/rmob                           |
 | [best-practices-wordpress](https://github.com/cnumr/best-practices-wordpress)                 | RWP. Référentiel de bonnes pratiques pour l’environnement wordpress. Disponible sur ref.greenit.fr/rwp                      |
-| [best-practices-checklists](https://github.com/cnumr/best-practices-checklists) | Checklists pour les référentiels, permettant de valider son avancement. |
+| [best-practices-ai](https://github.com/cnumr/best-practices-ai)                               | RIA, référentiel de bonnes pratiques pour l'IA générative dans les services numériques. Disponible sur ria.greenit.fr       |
+| [best-practices-checklists](https://github.com/cnumr/best-practices-checklists)               | Checklists pour les référentiels, permettant de valider son avancement.                                                     |
 
 
 ## Ecoindex dans ses différentes versions
