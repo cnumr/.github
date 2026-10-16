@@ -4,7 +4,17 @@
 
 Bienvenue sur la page d’accueil Github du CNumR !
 
+> **Le CNumR (Collectif Numérique Responsable) est un groupe de travail de l’[association GreenIT](https://greenit.eco/)**, association de bénévoles experts qui agit pour un numérique plus sobre et durable. Tous les référentiels et outils présentés ici sont développés dans ce cadre.
+
 Notre collectif oeuvre pour créer des communs numériques libres, open source et accessibles à tous permettant d’écoconcevoir des services numériques.
+
+**Qui fait quoi ?**
+
+ * **L’[association GreenIT](https://greenit.eco/qui-sommes-nous/)** (greenit.eco) a été créée en mars 2022 à partir du collectif GreenIT.fr. Elle organise ses actions en [groupes de travail](https://greenit.eco/les-groupes-de-travail/) (écoconception des services numériques, études, plaidoyer, éducation, etc.) et porte l’ensemble de ces travaux : [outils et référentiels](https://greenit.eco/nos-outils-et-referentiels/), [études](https://greenit.eco/nos-etudes-et-essais/), actions auprès des pouvoirs publics.
+ * **Le CNumR**, groupe de travail dédié à l’écoconception des services numériques, a émergé en 2011 avec la première édition du référentiel RWEB et a été formalisé en 2014. C’est lui qui conçoit et maintient les référentiels et les outils listés sur cette page.
+ * **Les contributeurs et contributrices** sont de profils variés (indépendants, entreprises, institutions, chercheurs…), membres ou non de l’association : chacun peut participer à ces communs, et chaque outil est animé par ses mainteneurs.
+
+Si vous utilisez, reprenez ou citez ces travaux, merci de mentionner le CNumR et l’association GreenIT. Pour aller plus loin, vous pouvez [rejoindre l’association](https://greenit.eco/nous-rejoindre/) ou la [soutenir par un don](https://www.helloasso.com/associations/association-green-it/formulaires/1).
 
 Vous y trouverez notamment :
 
